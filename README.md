@@ -1,5 +1,9 @@
 ### Hi there 👋
- 👋 Hello There, I'm Essa Ahmed Siddiqui 
+ 👋 Hello There, I'm Essa Ahmed Siddiqui
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
  
  A Computer Science Enthusiast with specialization in Cloud Technology.
  Currently working as a Senior Software Engineer.
@@ -53,11 +57,26 @@
  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  
- Some Of my stats on Github
+ 
+ ## 📊 My Github Stats 🏆
+  <br/>
+  <p align="center">
+    <a href="https://github.com/essaahmedsiddiqui/github-readme-stats">
+      <img alt="Essa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=essaahmedsiddiqui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
+      <img alt="Essa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essaahmedsiddiqui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
+    </a>
+    <a href="https://github.com/essaahmedsiddiqui/github-readme-activity-graph">
+      <img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=essaahmedsiddiqui&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    </a>
+  </p>
+ 
+ 
+ 
+<!--  Some Of my stats on Github
  
  ![Essa's GitHub stats](https://github-readme-stats.vercel.app/api?username=essaahmedsiddiqui&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essaahmedsiddiqui&layout=compact&theme=tokyonight)](https://github.com/essaahmedsiddiqui/github-readme-stats)
-
+ -->
  💬 Ask me a question /  📫 Reach Out to Me - 
  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -  `essaahmedsiddiqui@gmail.com` 
